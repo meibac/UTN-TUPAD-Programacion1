@@ -181,7 +181,7 @@ hora = input("Ingresá la hora (ej: 9:00, 14:00, etc.): ")
 clave = (dia, hora)
 
 if clave in agenda:
-    print(f"A las {hora} del {dia} tenés: {agenda[clave]}")
+    print(f"A las {hora} del {dia} tienes: {agenda[clave]}")
 else:
     print(f"No hay actividades registradas el {dia} a las {hora}.")
 

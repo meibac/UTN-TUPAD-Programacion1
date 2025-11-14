@@ -1,0 +1,4 @@
+Frutillas,500.0,5
+Durazno,300.0,4
+Pera,600.0,7
+kiwi,344.0,5
